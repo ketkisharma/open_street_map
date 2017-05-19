@@ -1,4 +1,4 @@
-# Cluster Analysis based on OpenStreetMap data
+# Cluster analysis based on OpenStreetMap data
 
 This project is based on data from Open Street Map for [San Francisco](https://www.openstreetmap.org/relation/111968), California, United States.
 
